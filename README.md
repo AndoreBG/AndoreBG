@@ -1,22 +1,22 @@
-# Hi there! 👋
-I'm a Backend Developer focused on .NET and C#, passionate about solving problems and creating innovative solutions. Currently, I’m pursuing a Bachelor’s in Digital Games, expanding my skills in complex systems, game development, and scalable solutions.
+### Olá! 👋  
+Sou um **Desenvolvedor Backend** focado em **.NET** e **C#**, apaixonado por resolver problemas e criar soluções inovadoras. Atualmente, estou cursando **Tecnologia em Jogos Digitais**, ampliando minhas habilidades em **sistemas complexos**, **desenvolvimento de jogos** e **soluções escaláveis**.  
 
-### What I’m working on:
-- Building RESTful APIs and microservices using C# and .NET.
-- Enhancing my knowledge of Clean Code and SOLID principles.
-- Exploring the world of game development with Unity (2D & 3D).
+### No que estou trabalhando:  
+- Desenvolvendo **APIs REST** e **microservices** com **C#** e **.NET**.  
+- Aprofundando meus conhecimentos em **Clean Code** e nos princípios **SOLID**.  
+- Explorando o universo do **desenvolvimento de jogos** com **Unity (2D e 3D)**.  
 
-### My Skills:
-- Backend Development: .NET, C#, ASP.NET, REST APIs, Swagger API
-- Databases: SQL Server, MySQL
-- Version Control: Git, GitHub
-- Agile Methodologies: Scrum, Kanban
-- Game Development: Unity 2D & 3D, C
-- Cloud Platforms: Azure
+### Minhas Habilidades:  
+- **Desenvolvimento Backend**: .NET, C#, ASP.NET, REST APIs, Swagger API  
+- **Bancos de Dados**: SQL Server, MySQL  
+- **Controle de Versão**: Git, GitHub  
+- **Metodologias Ágeis**: Scrum, Kanban  
+- **Desenvolvimento de Jogos**: Unity 2D & 3D, C  
+- **Plataformas em Nuvem**: Azure  
 
-### About Me:
-I’m eager to learn new technologies, collaborate on exciting projects, and grow as a developer. My goal is to contribute to meaningful solutions that make a difference.
+### Sobre Mim:  
+Estou sempre buscando aprender novas tecnologias, colaborar em projetos empolgantes e crescer como desenvolvedor. Meu objetivo é contribuir para soluções significativas que façam a diferença.  
 
-📫 Feel free to connect with me or check out my projects! 🚀
+📫 Sinta-se à vontade para entrar em contato ou conferir meus projetos! 🚀  
 
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/andre-gorzoni/) [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/andregorzoni)
