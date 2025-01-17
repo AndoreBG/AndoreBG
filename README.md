@@ -1,5 +1,5 @@
 ### Olá! 👋  
-Sou um **Desenvolvedor Backend** focado em **.NET** e **C#**, apaixonado por resolver problemas e criar soluções inovadoras. Atualmente, estou cursando **Tecnologia em Jogos Digitais**, ampliando minhas habilidades em **sistemas complexos**, **desenvolvimento de jogos** e **soluções escaláveis**.  
+Sou um **Desenvolvedor Backend** focado em **.NET** e **C#**, apaixonado por resolver problemas e criar soluções inovadoras. Atualmente, estou cursando **Tecnólogo em Jogos Digitais**, ampliando minhas habilidades em **sistemas complexos**, **desenvolvimento de jogos** e **soluções escaláveis**.  
 
 ### No que estou trabalhando:  
 - Desenvolvendo **APIs REST** e **microservices** com **C#** e **.NET**.  
