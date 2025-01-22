@@ -15,7 +15,7 @@ Sou um **Desenvolvedor Backend** focado em **.NET** e **C#**, apaixonado por res
 - **Plataformas em Nuvem**: Azure  
 
 ### Sobre Mim:  
-Estou sempre buscando aprender novas tecnologias, colaborar em projetos empolgantes e crescer como desenvolvedor. Meu objetivo é contribuir para soluções significativas que façam a diferença.  
+Estou sempre buscando **aprender** novas tecnologias, **colaborar** em projetos empolgantes e **crescer** como desenvolvedor. Meu objetivo é contribuir para soluções significativas que façam a diferença.  
 
 📫 Sinta-se à vontade para entrar em contato ou conferir meus projetos! 🚀  
 
