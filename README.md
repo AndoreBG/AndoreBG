@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Sou um **Desenvolvedor Backend** focado em **.NET** e **C#**, apaixonado por resolver problemas e criar soluções inovadoras. Estou cursando **Tecnólogo em Jogos Digitais**, ampliando minhas habilidades em **sistemas complexos**, **desenvolvimento de jogos** e **soluções escaláveis**.
+Sou um **Desenvolvedor de Software** focado em aplicações desktop em Delphi. Sou apaixonado por resolver problemas e criar soluções inovadoras. Estou cursando **Tecnólogo em Jogos Digitais**, ampliando minhas habilidades em **sistemas complexos**, **desenvolvimento de jogos** e **soluções escaláveis**.
 
 Atualmente, estou estagiando em uma empresa especializada em soluções para o varejo, onde atuo na **manutenção e correção de aplicações comerciais** utilizadas por clientes, além de auxiliar na **integração de novos clientes** aos sistemas da empresa. Parte do meu trabalho envolve a **importação de dados de bancos externos** (como SQL Server, MySQL e PostgreSQL) para o **banco de dados Firebird**, utilizando **Delphi na IDE Embarcadero**.
 
@@ -18,7 +18,7 @@ Atualmente, estou estagiando em uma empresa especializada em soluções para o v
 * **Bancos de Dados**: SQL Server, MySQL, PostgreSQL, Firebird
 * **Desenvolvimento Backend**: .NET, C#, ASP.NET, REST APIs, Swagger API
 * **Controle de Versão**: Git, GitHub
-* **Metodologias Ágeis**: Scrum, Kanban
+* **Metodologias Ágeis**: Kanban
 * **Desenvolvimento de Jogos**: Unity 2D & 3D, C
 * **Plataformas em Nuvem**: Azure
 
