@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Sou um **Desenvolvedor de Software** focado em aplicações desktop em Delphi. Sou apaixonado por resolver problemas e criar soluções inovadoras. Estou cursando **Tecnólogo em Jogos Digitais**, ampliando minhas habilidades em **sistemas complexos**, **desenvolvimento de jogos** e **soluções escaláveis**.
+Sou um **Desenvolvedor de Software** focado em aplicações desktop em **Delphi**. Sou apaixonado por resolver problemas e criar soluções inovadoras. Estou cursando **Tecnólogo em Jogos Digitais**, ampliando minhas habilidades em **sistemas complexos**, **desenvolvimento de jogos** e **soluções escaláveis**.
 
 Atualmente, estou estagiando em uma empresa especializada em soluções para o varejo, onde atuo na **manutenção e correção de aplicações comerciais** utilizadas por clientes, além de auxiliar na **integração de novos clientes** aos sistemas da empresa. Parte do meu trabalho envolve a **importação de dados de bancos externos** (como SQL Server, MySQL e PostgreSQL) para o **banco de dados Firebird**, utilizando **Delphi na IDE Embarcadero**.
 
@@ -14,7 +14,7 @@ Atualmente, estou estagiando em uma empresa especializada em soluções para o v
 
 ### Minhas Habilidades:
 
-* **Desenvolvimento Desktop**: Delphi (IDE Embarcadero)
+* **Desenvolvimento Desktop**: Delphi (IDE Embarcadero), ACBR, DevExpress
 * **Bancos de Dados**: SQL Server, MySQL, PostgreSQL, Firebird
 * **Desenvolvimento Backend**: .NET, C#, ASP.NET, REST APIs, Swagger API
 * **Controle de Versão**: Git, GitHub
