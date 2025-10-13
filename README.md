@@ -14,7 +14,7 @@ Atualmente, estou estagiando em uma empresa especializada em soluções para o v
 
 ### Minhas Habilidades:
 
-* **Desenvolvimento Desktop**: Delphi (IDE Embarcadero), ACBR, DevExpress
+* **Desenvolvimento Desktop**: Delphi (IDE Embarcadero), ACBR, JEDI, TMS Core, DevExpress
 * **Bancos de Dados**: SQL Server, MySQL, PostgreSQL, Firebird
 * **Desenvolvimento Backend**: .NET, C#, ASP.NET, REST APIs, Swagger API
 * **Controle de Versão**: Git, GitHub
