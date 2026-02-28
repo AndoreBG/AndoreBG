@@ -10,9 +10,9 @@ Meu objetivo é evoluir como **Unity Developer**, construindo sistemas bem estru
 
 ## 🚀 Projeto em Destaque
 
-### 🎮 Exorcismo Extracurricular (Unity 2D)
+### 🎮 [Exorcismo Extracurricular](https://github.com/AndoreBG/Exorcismo-Extracurricular) (Unity 2D – Metroidvania)
 
-Fui responsável por praticamente todo o desenvolvimento técnico do jogo.
+Fui responsável por todo o desenvolvimento técnico do jogo.
 
 Implementei:
 
@@ -27,7 +27,11 @@ Implementei:
 **Destaque técnico:**  
 O sistema de combate utiliza três símbolos mágicos com quatro estados de rotação cada. O inimigo só recebe dano se o símbolo correto estiver na rotação correta, exigindo validação de estado, sincronização entre input e lógica de combate, e controle consistente de regras em tempo real.
 
-🔗 Itch.io: https://mikagamesdev.itch.io/exorcismo-extracurricular  
+<p align="left">
+  <a href="https://mikagamesdev.itch.io/exorcismo-extracurricular">
+    <img src="https://img.shields.io/badge/Jogue%20Exorcismo%20Extracurricular-itch.io-ef2d05?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  </a>
+</p>
 
 ---
 
