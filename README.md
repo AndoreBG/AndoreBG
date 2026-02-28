@@ -8,7 +8,7 @@ Meu objetivo é evoluir como **Unity Developer**, construindo sistemas bem estru
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projeto em Destaque
 
 ### 🎮 Exorcismo Extracurricular (Unity 2D)
 
@@ -28,7 +28,6 @@ Implementei:
 O sistema de combate utiliza três símbolos mágicos com quatro estados de rotação cada. O inimigo só recebe dano se o símbolo correto estiver na rotação correta, exigindo validação de estado, sincronização entre input e lógica de combate, e controle consistente de regras em tempo real.
 
 🔗 Itch.io: https://mikagamesdev.itch.io/exorcismo-extracurricular  
-🔗 GitHub: https://github.com/andoredev  
 
 ---
 
