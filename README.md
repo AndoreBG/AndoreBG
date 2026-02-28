@@ -10,7 +10,7 @@ Meu objetivo é evoluir como **Unity Developer**, construindo sistemas bem estru
 
 ## 🚀 Projeto em Destaque
 
-### 🎮 [Exorcismo Extracurricular](https://github.com/AndoreBG/Exorcismo-Extracurricular) (Unity 2D – Metroidvania)
+### 🎮 [Exorcismo Extracurricular](https://github.com/AndoreBG/Exorcismo-Extracurricular) (Unity 2D)
 
 Fui responsável por todo o desenvolvimento técnico do jogo.
 
