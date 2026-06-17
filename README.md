@@ -51,7 +51,7 @@ No papel de **Desenvolvedor Principal**, criei toda a base técnica e arquitetur
 | :--- | :--- |
 | **🎮 Game Dev** | Unity, C#, Phaser, A-Frame (VR/AR) |
 | **🏗️ Arquitetura & Padrões** | *Design Patterns*, *Dependency Injection*, *Event-Driven Architecture*, *State Machines*, *Object Pooling* |
-| **💻 Backend & Desktop** | Delphi, C#, .NET Core / Framework, Node.js, Socket.io |
+| **💻 Backend & Desktop** | C#, Delphi, .NET Core / Framework, Node.js |
 | **🛢️ Banco de Dados** | SQL Server, Firebird, MySQL |
 | **🔧 Ferramentas** | Git, GitHub, Clean Code |
 
