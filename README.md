@@ -4,7 +4,7 @@ Sou um **Desenvolvedor de Software e Game Developer** focado em criar aplicaçõ
 
 Atualmente, curso **Tecnólogo em Jogos Digitais na FATEC Americana** e atuo profissionalmente como **Desenvolvedor Delphi**, lidando com bancos de dados relacionais e sistemas comerciais corporativos de alta demanda.
 
----
+<br>
 
 ## 🚀 Projeto em Destaque
 
@@ -24,7 +24,7 @@ No papel de **Desenvolvedor Principal**, criei toda a base técnica e arquitetur
   </a>
 </p>
 
----
+<br>
 
 ## 🕹️ Outros Projetos Relevantes
 
@@ -32,7 +32,7 @@ No papel de **Desenvolvedor Principal**, criei toda a base técnica e arquitetur
 * ⛳ **[Mini-Golf](https://github.com/AndoreBG/Mini-Golf)**: Jogo de mini-golfe desenvolvido na **Unity**, construído para aprimorar física aplicada, lógica de programação, criação de classes e desenvolvimento colaborativo via Git/GitHub.
 * 🥽 **[Jogo da Memória VR](https://github.com/AndoreBG/jogo-memoria-vr)**: Jogo da memória imersivo em realidade virtual (WebVR/WebXR) construído com **A-Frame**, distribuindo cartas em um semi-círculo 3D para ser jogado direto no navegador.
 
----
+<br>
 
 ## 💼 Experiência Profissional
 
@@ -43,7 +43,7 @@ No papel de **Desenvolvedor Principal**, criei toda a base técnica e arquitetur
 * Escrita, otimização e modelagem de *queries* SQL de alta performance em **Firebird** e **SQL Server**.
 * Resolução de *bugs* críticos e modernização contínua de código legado.
 
----
+<br>
 
 ## 🛠️ Stack Técnica & Boas Práticas
 
@@ -55,7 +55,7 @@ No papel de **Desenvolvedor Principal**, criei toda a base técnica e arquitetur
 | **🛢️ Banco de Dados** | SQL Server, Firebird, MySQL |
 | **🔧 Ferramentas** | Git, GitHub, Clean Code |
 
----
+<br>
 
 ## 📫 Contato & Conexões
 
