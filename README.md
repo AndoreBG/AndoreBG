@@ -53,8 +53,7 @@ No papel de **Desenvolvedor Principal**, criei toda a base técnica e arquitetur
 | **🏗️ Arquitetura & Padrões** | *Design Patterns*, *Dependency Injection*, *Event-Driven Architecture*, *State Machines*, *Object Pooling* |
 | **💻 Backend & Desktop** | C#, Delphi, .NET Core / Framework, Node.js |
 | **🛢️ Banco de Dados** | SQL Server, Firebird, MySQL |
-| **🔧 Ferramentas** | Git, GitHub, Clean Code |
-
+| **🔧 Ferramentas** | Git, GitHub, Uniy Version Control / DevOps |
 <br>
 
 ## 📫 Contato & Conexões
