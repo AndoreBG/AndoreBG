@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou um **Desenvolvedor de Software e Game Developer** focado em criar aplicações robustas e jogos bem arquitetados. Combino uma base sólida de engenharia de software (*Clean Code*, *Design Patterns*) com a criatividade do desenvolvimento de jogos.
+Sou um **Desenvolvedor de Software e Game Developer** focado em criar aplicações robustas e jogos bem arquitetados. Combino uma base sólida de engenharia de software (*Design Patterns*, *Clean Code*) com a criatividade do desenvolvimento de jogos.
 
 Atualmente, curso **Tecnólogo em Jogos Digitais na FATEC Americana** e atuo profissionalmente como **Desenvolvedor Delphi**, lidando com bancos de dados relacionais e sistemas comerciais corporativos de alta demanda.
 
