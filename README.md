@@ -1,19 +1,21 @@
 # Olá! 👋
 
-Sou um **Desenvolvedor de Software e Game Developer** focado em criar aplicações robustas e jogos bem arquitetados. Combino uma base sólida de engenharia de software (*Design Patterns*, *Clean Code*) com a criatividade do desenvolvimento de jogos.
+Sou um **Unity Game Developer** com foco no desenvolvimento de **Gameplay Systems** e na criação de experiências de jogo robustas e bem arquitetadas. Combino uma base sólida em engenharia de software (*Design Patterns*, *Clean Code*) com a paixão pelo desenvolvimento de jogos.
 
-Atualmente, curso **Tecnólogo em Jogos Digitais na FATEC Americana** e atuo profissionalmente como **Desenvolvedor Delphi**, lidando com bancos de dados relacionais e sistemas comerciais corporativos de alta demanda.
+Profissionalmente, possuo experiência no **desenvolvimento backend com .NET Core e Delphi**, atuando na arquitetura de sistemas complexos, gerenciamento de bancos de dados relacionais e otimização de sistemas corporativos de alta demanda. Atualmente, também curso **Tecnólogo em Jogos Digitais na FATEC Americana**.
 
 <br>
 
 ## 🚀 Projeto em Destaque
 
 ### 🔮 [Exorcismo Extracurricular](https://github.com/AndoreBG/Exorcismo-Extracurricular)
+
 *Survival 2D ARPG Twin-Stick • Unity 2D & C#*
 
 > **Sarah**, uma estudante de magia à beira da reprovação, precisa enfrentar hordas de criaturas corrompidas na "Idade Média Tecnomágica" para ser aprovada na temida disciplina de Exorcismo.
 
 No papel de **Desenvolvedor Principal**, criei toda a base técnica e arquitetural do jogo, com foco em performance e desacoplamento:
+
 * **Sistema de Combate de Símbolos Rotativos**: O jogador utiliza três símbolos mágicos com quatro estados de rotação. O inimigo só recebe dano na combinação correta em tempo real, exigindo validação precisa de estados e sincronização de *inputs*.
 * **Arquitetura & Padrões Implementados**: *Event-Driven Architecture* para controle de *Health/Energy*, *State Machines* (FSM) para IA dos inimigos e *Object Pooling* para gerenciamento otimizado das hordas.
 * **Sistemas Auxiliares**: Movimentação totalmente desacoplada, sistema de clima atmosférico (*Weather System*), interface gráfica (*UI/Menus*) e sistema de objetos interativos (baús, portas, NPCs).
@@ -37,7 +39,9 @@ No papel de **Desenvolvedor Principal**, criei toda a base técnica e arquitetur
 ## 💼 Experiência Profissional
 
 ### Desenvolvedor Delphi
+
 *Futura Sistemas - Automação Comercial*
+
 * Manutenção e evolução de sistemas corporativos complexos.
 * Implementação e refatoração de funcionalidades prezando pela estabilidade do código.
 * Escrita, otimização e modelagem de *queries* SQL de alta performance em **Firebird** e **SQL Server**.
@@ -53,7 +57,8 @@ No papel de **Desenvolvedor Principal**, criei toda a base técnica e arquitetur
 | **🏗️ Arquitetura & Padrões** | *Design Patterns*, *Dependency Injection*, *Event-Driven Architecture*, *State Machines*, *Object Pooling* |
 | **💻 Backend & Desktop** | C#, Delphi, .NET Core / Framework, Node.js |
 | **🛢️ Banco de Dados** | SQL Server, Firebird, MySQL |
-| **🔧 Ferramentas** | Git, GitHub, Uniy Version Control / DevOps |
+| **🔧 Ferramentas** | Git, GitHub, Unity Version Control / DevOps |
+
 <br>
 
 ## 📫 Contato & Conexões
